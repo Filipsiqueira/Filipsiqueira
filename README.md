@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Filipe Siqueira, estudante e amante da programação 😊✌️
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipsiqueira&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipsiqueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ## Linguagens que utilizo/estudo:
 
